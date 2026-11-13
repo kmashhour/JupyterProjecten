@@ -179,3 +179,15 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Wildflower Finder – dataset
+EWD_subset/
+
+# Getrainde modellen
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter tijdelijke bestanden
+.ipynb_checkpoints/
+__pycache__/
